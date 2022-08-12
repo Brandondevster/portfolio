@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { FaBars, FaTimes, FaGithub, FaLinkedin } from "react-icons/fa";
+import { BsFillPersonLinesFill } from "react-icons/bs";
 import Logo from "../assets/bw.png";
 import { Link } from "react-scroll";
 
@@ -99,6 +100,14 @@ const Navbar = () => {
               href="https://github.com/Brandondevster"
             >
               Github <FaGithub size={30} />
+            </a>
+          </li>
+          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#ab9612]">
+            <a
+              className="flex justify-between items-center w-full text-black"
+              href="https://www.dropbox.com/scl/fi/sjrac4u3sul9koflip708/Brandon-Webster-resume.docx?dl=0&rlkey=n2nyukg3mbr52zwzh3n1eud7t"
+            >
+              Resume <BsFillPersonLinesFill size={30} />
             </a>
           </li>
         </ul>

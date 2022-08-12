@@ -8,11 +8,10 @@ const Work = () => {
     <div name="work" className="w-full md:h-screen text-[#c2c2c2] bg-[#000000]">
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div className="pb-8">
-          <p className="text-4xl font-bold inline ">
-            Work
-          </p>
+          <p className="text-4xl font-bold inline ">Work</p>
           <p className="text-lg text-[#dddddd] py-6">
-            Have a look at my <a className="text-lg text-[#edda63]">recent projects</a>
+            Have a look at my{" "}
+            <a className="text-lg text-[#edda63]">recent projects</a>
           </p>
         </div>
 
@@ -34,7 +33,7 @@ const Work = () => {
                     Demo
                   </button>
                 </a>
-                <a href="/">
+                <a href="https://github.com/Brandondevster/techmart">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-black text-[#dddddd] font-bold text-lg">
                     Code
                   </button>
@@ -57,7 +56,7 @@ const Work = () => {
                     Demo
                   </button>
                 </a>
-                <a href="/">
+                <a href="https://github.com/Brandondevster/notepad">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-black text-[#dddddd] font-bold text-lg">
                     Code
                   </button>
@@ -81,7 +80,7 @@ const Work = () => {
                     Demo
                   </button>
                 </a>
-                <a href="/">
+                <a href="https://github.com/Brandondevster/python_tetris">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-black text-[#dddddd] font-bold text-lg">
                     Code
                   </button>
