@@ -28,9 +28,9 @@ const Work = () => {
                 JS Shopping Cart
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://techmart.hostman.site">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-black text-[#dddddd] font-bold text-lg">
-                    Demo
+                    Live
                   </button>
                 </a>
                 <a href="https://github.com/Brandondevster/techmart">
@@ -51,11 +51,6 @@ const Work = () => {
                 React+Django Note Pad
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-black text-[#dddddd] font-bold text-lg">
-                    Demo
-                  </button>
-                </a>
                 <a href="https://github.com/Brandondevster/notepad">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-black text-[#dddddd] font-bold text-lg">
                     Code
@@ -75,11 +70,6 @@ const Work = () => {
                 Python Tetris
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-black text-[#dddddd] font-bold text-lg">
-                    Demo
-                  </button>
-                </a>
                 <a href="https://github.com/Brandondevster/python_tetris">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-black text-[#dddddd] font-bold text-lg">
                     Code
