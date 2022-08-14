@@ -23,7 +23,7 @@ const About = () => {
               Building incredible software is my passion and I aim for this
               software to improve peoples lives. My software is for indivual
               clients, small businesses and large corporations.<a className="text-lg text-[#edda63]"> My journey as a
-              dveloper began in 2020.</a> I dreamed of creating web applications, I am thrilled to say that dream has become reality.{" "}
+              developer began in 2020.</a> I dreamed of creating web applications, I am thrilled to say that dream has become reality.{" "}
             </p>
           </div>
         </div>
