@@ -16,7 +16,7 @@ const Contact = () => {
             Contact
           </p>
           <p className="text-lg text-[#dddddd] py-4">
-            Complete and submit the form below or send me an email - <a className="text-lg text-[#edda63]">brandonkw13333@gmail.com</a>
+            Complete the form below with your details and submit or send me an email - <a className="text-lg text-[#edda63]">brandonkw13333@gmail.com</a>
           </p>
         </div>
         <input
