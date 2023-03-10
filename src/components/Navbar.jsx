@@ -102,10 +102,10 @@ const Navbar = () => {
               Github <FaGithub size={30} />
             </a>
           </li>
-          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#ab9612]">
+          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#c9b953]">
             <a
               className="flex justify-between items-center w-full text-black"
-              href="https://www.dropbox.com/scl/fi/sjrac4u3sul9koflip708/Brandon-Webster-resume.docx?dl=0&rlkey=n2nyukg3mbr52zwzh3n1eud7t"
+              href="https://www.dropbox.com/s/j9y4rau9q33838f/Brandon%20Webster%20Resume.docx?dl=0"
             >
               Resume <BsFillPersonLinesFill size={30} />
             </a>

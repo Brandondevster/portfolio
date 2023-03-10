@@ -12,11 +12,11 @@ const Contact = () => {
         className="flex flex-col max-w-[600px]"
       >
         <div className="pb-8">
-          <p className="text-4xl font-bold inline text-[#c2c2c2]">
-            Contact
+          <p className="text-4xl font-bold inline text-[#c9b953]">
+            <center>Contact</center>
           </p>
           <p className="text-lg text-[#dddddd] py-4">
-            Complete the form below with your details and submit or send me an email - <a className="text-lg text-[#edda63]">brandondevster@gmail.com</a>
+            <center>Complete the form below with your details and submit or send me an email - brandondevster@gmail.com</center>
           </p>
         </div>
         <input
@@ -37,7 +37,7 @@ const Contact = () => {
           rows="10"
           placeholder="(Message)"
         ></textarea>
-        <button className="text-[#dddddd] border-2 border-[#9d9d9d] hover:bg-[#ab9612] hover:border-[#ab9612] px-4 py-3 my-8 mx-auto flex items-center">
+        <button className="text-[#dddddd] border-2 border-[#9d9d9d] hover:bg-[#c9b953] hover:border-[#c9b953] hover:text-[#000000] px-4 py-3 my-8 mx-auto flex items-center">
           Submit
         </button>
       </form>
