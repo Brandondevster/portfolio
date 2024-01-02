@@ -89,7 +89,7 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#071869]">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="https://www.linkedin.com/in/brandon-webster-a3340613a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5MLNCbFWRmePZU4DjpSxAA%3D%3D"
+              href="https://www.linkedin.com/in/brandonwebster-/"
             >
               Linkedin <FaLinkedin size={30} />
             </a>
@@ -102,10 +102,10 @@ const Navbar = () => {
               Github <FaGithub size={30} />
             </a>
           </li>
-          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#c9b953]">
+          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#ffd600]">
             <a
               className="flex justify-between items-center w-full text-black"
-              href="https://www.dropbox.com/s/j9y4rau9q33838f/Brandon%20Webster%20Resume.docx?dl=0"
+              href="https://www.dropbox.com/scl/fi/o342k28i63aybnoyqnujt/Brandon-Webster-Resume.docx?dl=0&rlkey=mry12hv8lcsqn9ik7ugl31yr2"
             >
               Resume <BsFillPersonLinesFill size={30} />
             </a>

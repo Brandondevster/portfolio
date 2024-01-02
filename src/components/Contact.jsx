@@ -4,7 +4,7 @@ const Contact = () => {
   return (
     <div
       name="contact"
-      className="w-full h-screen bg-[#000000] flex justify-center items-center p-4"
+      className="w-full h-screen bg-[#000000] flex justify-center text-center items-center p-4"
     >
       <form
         method="POST"
@@ -12,11 +12,10 @@ const Contact = () => {
         className="flex flex-col max-w-[600px]"
       >
         <div className="pb-8">
-          <p className="text-4xl font-bold inline text-[#c9b953]">
-            <center>Contact</center>
-          </p>
-          <p className="text-lg text-[#dddddd] py-4">
-            <center>Complete the form below with your details and submit or send me an email - brandondevster@gmail.com</center>
+          <p className="text-4xl font-bold inline text-[#ffd600]">Contact</p>
+          <p className="text-lg text-[#eeeeee] py-4">
+            Complete the form below with your details and submit or send me an
+            email - brandondevster@gmail.com
           </p>
         </div>
         <input
@@ -37,7 +36,7 @@ const Contact = () => {
           rows="10"
           placeholder="(Message)"
         ></textarea>
-        <button className="text-[#dddddd] border-2 border-[#9d9d9d] hover:bg-[#c9b953] hover:border-[#c9b953] hover:text-[#000000] px-4 py-3 my-8 mx-auto flex items-center">
+        <button className="text-[#eeeeee] border-2 border-[#9d9d9d] hover:text-[#000000] hover:bg-[#ffd600] hover:border-[#ffd600] px-4 py-3 my-8 mx-auto flex items-center">
           Submit
         </button>
       </form>
