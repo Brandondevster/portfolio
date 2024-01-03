@@ -56,28 +56,28 @@ const Skills = () => {
           </div>
           
           <div className="shadow-md shadow-[#3a3a3e] hover:scale-110 duration-500">
-            <img className="w-20 mx-auto" src={Tailwind} alt="DJANGO icon" />
+            <img className="w-20 mx-auto" src={Tailwind} alt="TAILWIND icon" />
             <p className="my-4">Tailwind</p>
           </div>
           
           <div className="shadow-md shadow-[#3a3a3e] hover:scale-110 duration-500">
-            <img className="w-20 mx-auto" src={Vscode} alt="DJANGO icon" />
+            <img className="w-20 mx-auto" src={Vscode} alt="VSCODE icon" />
             <p className="my-4">VS Code</p>
           </div>
           
           <div className="shadow-md shadow-[#3a3a3e] hover:scale-110 duration-500">
-            <img className="w-20 mx-auto" src={Github} alt="DJANGO icon" />
+            <img className="w-20 mx-auto" src={Github} alt="GITHUB icon" />
             <p className="my-4">GitHub</p>
           </div>
 
           <div className="shadow-md shadow-[#3a3a3e] hover:scale-110 duration-500">
-            <img className="w-20 mx-auto" src={HTML} alt="DJANGO icon" />
-            <p className="my-4">GitHub</p>
+            <img className="w-20 mx-auto" src={HTML} alt="HTML icon" />
+            <p className="my-4">HTML</p>
           </div>
 
           <div className="shadow-md shadow-[#3a3a3e] hover:scale-110 duration-500">
-            <img className="w-20 mx-auto" src={CSS} alt="DJANGO icon" />
-            <p className="my-4">GitHub</p>
+            <img className="w-20 mx-auto" src={CSS} alt="CSS icon" />
+            <p className="my-4">CSS</p>
           </div>
         </div>
       </div>
