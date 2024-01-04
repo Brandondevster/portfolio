@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.783bf55d.css",
+    "main.js": "/static/js/main.7f814b59.js",
+    "static/media/pythontetris.png": "/static/media/pythontetris.0511b291e95b1315726b.png",
+    "static/media/techmart.png": "/static/media/techmart.d1c71bd6d65768138538.png",
+    "static/media/fashionpet.png": "/static/media/fashionpet.2b42d79f433942f21fa5.png",
+    "static/media/warnerwoodworks.png": "/static/media/warnerwoodworks.33cdf02797e8059dfcd1.png",
+    "static/media/portfolio.png": "/static/media/portfolio.b9900b4ab62093bc2e4e.png",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/github.png": "/static/media/github.bb1bcb4c34e56ddbc178.png",
+    "static/media/notepad.png": "/static/media/notepad.f0dbe9883b4233834546.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/vscode.png": "/static/media/vscode.d793c746fbc937f66e3d.png",
+    "static/media/tailwind.png": "/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/bw.png": "/static/media/bw.245678d992af48d5b06a.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.783bf55d.css.map": "/static/css/main.783bf55d.css.map",
+    "main.7f814b59.js.map": "/static/js/main.7f814b59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.783bf55d.css",
+    "static/js/main.7f814b59.js"
+  ]
+}
