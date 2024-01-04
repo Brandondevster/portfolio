@@ -11,6 +11,7 @@ import Django from "../assets/django.png";
 import Vscode from "../assets/vscode.png";
 import Github from "../assets/github.png";
 import Tailwind from "../assets/tailwind.png";
+import jQuery from "../assets/jQuery.png"
 
 const Skills = () => {
   return (
@@ -46,6 +47,11 @@ const Skills = () => {
           </div>
           
           <div className="shadow-md shadow-[#3a3a3e] hover:scale-110 duration-500">
+            <img className="w-20 mx-auto" src={jQuery} alt="JQUERY icon" />
+            <p className="my-4">jQuery</p>
+          </div>
+
+          <div className="shadow-md shadow-[#3a3a3e] hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={Python} alt="PYTHON icon" />
             <p className="my-4">Python</p>
           </div>
@@ -64,7 +70,7 @@ const Skills = () => {
             <img className="w-20 mx-auto" src={Vscode} alt="VSCODE icon" />
             <p className="my-4">VS Code</p>
           </div>
-          
+
           <div className="shadow-md shadow-[#3a3a3e] hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={Github} alt="GITHUB icon" />
             <p className="my-4">GitHub</p>
