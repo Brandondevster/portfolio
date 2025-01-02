@@ -11,7 +11,7 @@ import Django from "../assets/django.png";
 import Vscode from "../assets/vscode.png";
 import Github from "../assets/github.png";
 import Tailwind from "../assets/tailwind.png";
-import jQuery from "../assets/jQuery.png"
+import jQuery from "../assets/jQuery.png";
 
 const Skills = () => {
   return (
