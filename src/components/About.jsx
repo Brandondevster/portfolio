@@ -21,10 +21,10 @@ const About = () => {
           <div>
             <p  className="text-lg text-[#eeeeee]">
               Building incredible software is my passion and I aim for this
-              software to improve peoples lives. My software development skills are for indivual
+              software to be impactful. My software development skills are for indivual
               clients, small businesses and large corporations. My journey as a
-              software developer began in 2020. I dreamed of creating web applications, 
-              I am thrilled to say that dream has become reality.{" "}
+              software developer began in 2020, I dreamed of creating web applications and 
+              I'm thrilled to say that dream has become reality.{" "}
             </p>
           </div>
         </div>
