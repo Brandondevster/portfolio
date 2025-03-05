@@ -15,7 +15,7 @@ import jQuery from "../assets/jQuery.png"
 
 const Skills = () => {
   return (
-    <div name="skills" className="w-full h-screen bg-[#000000] text-[#eeeeee]">
+    <div name="skills" className="w-full md:h-screen bg-[#000000] text-[#eeeeee]">
       {/* Container*/}
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center text-center w-full h-full">
         <div>
